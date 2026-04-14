@@ -31,6 +31,7 @@ Antes de registrar o problema, o usuário deve preencher:
 Após o cadastro, o usuário escolhe entre três categorias:
 
 Problemas Acadêmicos
+
  Problemas Técnicos
 Problemas Administrativos
 
