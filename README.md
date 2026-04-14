@@ -33,6 +33,7 @@ Após o cadastro, o usuário escolhe entre três categorias:
 Problemas Acadêmicos
 
  Problemas Técnicos
+ 
 Problemas Administrativos
 
  Descrição do Problema
