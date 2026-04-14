@@ -18,6 +18,7 @@ Acompanhar o status dos atendimentos
 Melhorar a comunicação entre usuário e instituição
 
 🖥️ Funcionalidades
+
 🚀 Iniciar Solicitação
 
 O usuário começa clicando no botão "Inicie sua solicitação", disponível na tela inicial.
