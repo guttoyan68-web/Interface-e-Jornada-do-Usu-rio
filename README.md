@@ -10,9 +10,13 @@ O sistema foi pensado para um contexto institucional acadêmico, facilitando a c
 Criar uma interface funcional e organizada que permita:
 
 Registrar solicitações de forma rápida
+
 Categorizar problemas corretamente
+
 Acompanhar o status dos atendimentos
+
 Melhorar a comunicação entre usuário e instituição
+
 🖥️ Funcionalidades
 🚀 Iniciar Solicitação
 
