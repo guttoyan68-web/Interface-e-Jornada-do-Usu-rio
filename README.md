@@ -2,7 +2,6 @@ IIPRA – Portal de Solicitações
  Sobre o Projeto
 
 O IIPRA (Instituição Inventada para a Aula) é um portal digital desenvolvido no Figma, com foco em ambiente desktop, que permite aos usuários registrar solicitações, relatar problemas e acompanhar o andamento dos atendimentos.
-
 O sistema foi pensado para um contexto institucional acadêmico, facilitando a comunicação entre alunos e a organização, centralizando serviços em uma única plataforma simples e intuitiva.
 
  Objetivo
@@ -13,8 +12,8 @@ Registrar solicitações de forma rápida
 Categorizar problemas corretamente
 Acompanhar o status dos atendimentos
 Melhorar a comunicação entre usuário e instituição
- Funcionalidades
- Iniciar Solicitação
+Funcionalidades
+Iniciar Solicitação
 
 O usuário começa clicando no botão "Inicie sua solicitação", disponível na tela inicial.
 
@@ -32,9 +31,10 @@ Após o cadastro, o usuário escolhe entre três categorias:
 
 Problemas Acadêmicos
  Problemas Técnicos
- Problemas Administrativos
+Problemas Administrativos
 
  Descrição do Problema
+ Uma caixa de texto onde:
 
 O usuário descreve detalhadamente o problema enfrentado.
 
@@ -52,7 +52,7 @@ E disponibiliza um botão para:
 
  Acompanhar Solicitação
 
-Na tela inicial, o usuário também pode acessar a opção:
+Na tela inicial o usuário também pode acessar a opção:
 
 "Acompanhar solicitação"
 
@@ -72,6 +72,7 @@ Seleção de tipo de problema
 Tela de descrição
 Confirmação de envio
 Tela de acompanhamento / histórico
+
  Design
 
 O protótipo foi desenvolvido no Figma, priorizando:
