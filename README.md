@@ -21,9 +21,13 @@ O usuário começa clicando no botão "Inicie sua solicitação", disponível na
 
 Antes de registrar o problema, o usuário deve preencher:
 
+ 
  Nome completo
+
  Série / Ano letivo
+
  Telefone
+ 
  CAA (código de identificação)
  
 🛠️ Escolha do Tipo de Problema
