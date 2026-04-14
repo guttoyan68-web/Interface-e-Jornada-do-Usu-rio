@@ -30,13 +30,13 @@ Antes de registrar o problema, o usuário deve preencher:
  
  CAA (código de identificação)
  
-🛠️ Escolha do Tipo de Problema
+Escolha do Tipo de Problema
 
 Após o cadastro, o usuário escolhe entre três categorias:
 
 Problemas Acadêmicos
 
- Problemas Técnicos
+Problemas Técnicos
  
 Problemas Administrativos
 
