@@ -23,15 +23,21 @@ O usuário começa clicando no botão "Inicie sua solicitação", disponível na
 Antes de registrar o problema, o usuário deve preencher:
 
 Nome completo
+
 Série / Ano letivo
+
 Telefone
+
 CAA (código de identificação)
+
 🛠️ Escolha do Tipo de Problema
 
 Após o cadastro, o usuário escolhe entre três categorias:
 
 📚 Problemas Acadêmicos
+
 💻 Problemas Técnicos
+
 🏢 Problemas Administrativos
 
 ✍️ Descrição do Problema
@@ -61,16 +67,24 @@ Na tela inicial, o usuário também pode acessar a opção:
 Ao clicar em "Consultar status", o usuário visualiza:
 
 Suas solicitações registradas
+
 O tipo de cada problema
+
 O histórico de atendimentos
+
 O andamento de cada solicitação
 
 🧩 Estrutura do Sistema
 Tela inicial (Menu principal)
+
 Cadastro do usuário
+
 Seleção de tipo de problema
+
 Tela de descrição
+
 Confirmação de envio
+
 Tela de acompanhamento / histórico
 
 🎨 Design
@@ -78,8 +92,11 @@ Tela de acompanhamento / histórico
 O protótipo foi desenvolvido no Figma, priorizando:
 
 Interface limpa e intuitiva
+
 Navegação simples
+
 Botões bem destacados
+
 Organização clara das informações
 
 🏁 Conclusão
